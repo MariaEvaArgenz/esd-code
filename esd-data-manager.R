@@ -9,6 +9,7 @@ data <- read_excel('/Users/David/Library/CloudStorage/OneDrive-UGent/Research Gr
 #remove cases where missing
 
 #new
+#comm
 
 data_with_no_missing <- data
 
